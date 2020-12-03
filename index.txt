@@ -3,3 +3,4 @@ git add  是向暂存中添加文件的命令
 git commit -m commit 提交暂存区中的内容到仓库, -m 当前提交的提示信息
 git log 查看所有commit的信息
 git reflog 查看所有的操作
+git reset --hard HEAD^ 一个^代表回退一次提交 也可以用commit id 替代 HEAD
