@@ -11,3 +11,4 @@ git remote remove 名字 删除
 git remote rename 名字 新字 改名
 git remote show 名字 看信息
 
+//打标签 v1.0.0 v1.1.0
